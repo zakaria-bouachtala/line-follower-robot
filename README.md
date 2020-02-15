@@ -1,5 +1,6 @@
 # line-follower-robot
 a robot based on arduino controller and L298 motor driver
+using 3 IR SENSORS 
 ## materials that u need
 * ARDUINO UNO
 * L298 DRIVER
