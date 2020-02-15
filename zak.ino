@@ -84,5 +84,5 @@ if(capt1==1 && capt2==0 && capt3==1){
      
 }
 }
-# the function **while**(*conditions*) is used int the case of **sever deviation from the followed line** , in order to
-# give more precision of the detection so as the robot re-follow the line correctly .  
+#warning# : the function while(*conditions*) is used in the case of sever deviation from the followed line , in order to
+            give more precision of the detection so as the robot re-follow the line correctly .  
