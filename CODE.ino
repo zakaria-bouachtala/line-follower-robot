@@ -51,7 +51,7 @@ void loop() {
   capt1=digitalRead(out1);
   capt2=digitalRead(out2);
   capt3=digitalRead(out3);
-  // forzord : 
+  
   if(capt1==0 && capt2==0 && capt3==1){
       forword();
 }
@@ -65,12 +65,12 @@ if(capt1==1 && capt2==1 && capt3==0){
       forword();
 }
 if(capt1==0 && capt2==1 && capt3==1){
-      while(digitalRead(out3)==1){
+      while(digitalRead(out3)==1){          // optional condition
         turn_right();
      }
 }
 if(capt1==1 && capt2==0 && capt3==1){
-      while(digitalRead(out3)==1){
+      while(digitalRead(out3)==1){          // optional condition
         turn_left();
       }
 }
