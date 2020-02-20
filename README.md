@@ -10,7 +10,7 @@ using 3 IR SENSORS
 * 2 65MM ROBOT WHEELS
 * ROLLER BALL (in the head of the Robot)
 * DC batteries 9v
-### Screenshot
+### The Schematic Circuit
 
 ![circuit](https://user-images.githubusercontent.com/61091193/74989456-ad476980-5440-11ea-9f92-e3f864e5439b.PNG)
 
